@@ -1,2 +1,10 @@
-Script que automáticamente organiza los archivos descargados en carpetas según su tipo (imágenes, documentos, música, videos, etc.). Mucha gente tiene su carpeta de descargas desordenada, y esto sería muy útil.
-Script that automatically organizes downloaded files into folders according to their type (images, documents, music, videos, etc.). Many people have their download folders in disarray, and this would be very useful.
+# 🗂️ Organizador Automático de Descargas  
+
+Script en Python que organiza archivos en tu carpeta de Descargas por tipo (imágenes, documentos, etc.).  
+
+## 🚀 Cómo Usar  
+1. Clona el repositorio.  
+2. Ejecuta `python organizador.py`.  
+
+## 📝 Licencia  
+MIT  
